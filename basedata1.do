@@ -21,7 +21,7 @@ end
 
 set obs 52                                  // Visualize 52 weeks in a year.
 gen isWeek = _n                             // Generate "number of week."
-label variable isWeek "Week of the year"
+label variable isWeek "Week of the year or cycle"
 
 set seed 9999
 forvalues y = 2010/2018 {
