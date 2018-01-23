@@ -78,5 +78,5 @@ forvalues y = 2010/2018 {
 
 twoway (line year2010 isWeek) (line year2011 isWeek) (line year2012 isWeek) ///
 (line year2013 isWeek) (line year2014 isWeek) (line year2015 isWeek) ///
-(line year2016 isWeek) (line year2017 isWeek) (line year2018 isWeek), name(first) xlabel(0(2)52)
+(line year2016 isWeek) (line year2017 isWeek) (line year2018 isWeek), ytitle("Cumulative Count of New") name(first) xlabel(0(2)52)
 
