@@ -14,5 +14,10 @@ This project is under development. The following features / functions are planne
 - [ ] Generate base visualizations.
 - [ ] Add ineractive options to the visualizations.
 
+## Example output
+
+![Demonstration illustration of output from this repo.](basedata2_demp.png "Demonstration Output")
+
+
 ## Other notes
 
